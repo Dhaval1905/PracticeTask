@@ -1,6 +1,0 @@
-module Pods_boilerplate_boilerplateTests {
-  umbrella header "Pods-boilerplate-boilerplateTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
